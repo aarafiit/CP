@@ -37,8 +37,8 @@ Explore the folders below to find code implementations and explanations for spec
 
 Problems : 
 1. [Ugly-numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=72)
-   -[My solution](https://github.com/aarafiit/CP/blob/main/Ugly_numbers.cpp)
-2. [Ifter_Party](https://lightoj.com/problem/iftar-party)
+   - [My solution](https://github.com/aarafiit/CP/blob/main/Ugly_numbers.cpp)
+3. [Ifter_Party](https://lightoj.com/problem/iftar-party)
    - [My solution](https://github.com/aarafiit/CP/blob/main/Iftar_Party.cpp)
 
 - [Euclidean Algorithm](topics/number-theory/euclidean_algorithm.cpp)
