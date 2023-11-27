@@ -24,7 +24,13 @@ Competitive programming is a mind sport where participants write code to solve w
 
 This section contains solutions and write-ups for various online programming contests. Feel free to explore the folders for detailed explanations and code implementations.
 
-- [Codeforces](contests/codeforces)
+<details>
+  <summary>Codeforces</summary>
+
+  - [Contest 1](contests/codeforces/contest1)
+  - [Contest 2](contests/codeforces/contest2)
+  - [Contest 3](contests/codeforces/contest3)
+</details>
 - [AtCoder](contests/atcoder)
 - [LeetCode](contests/leetcode)
 - [Hackerrank](contests/hackerrank)
