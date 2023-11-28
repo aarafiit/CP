@@ -42,7 +42,24 @@ This section contains solutions and write-ups for various online programming con
     - [Problem B](contests/codeforces/contest3/problemB_solution.cpp)
     - [Problem C](contests/codeforces/contest3/problemC_solution.cpp)
 </details>
-- [AtCoder](contests/atcoder)
+<details>
+  <summary>Atcoder</summary>
+
+  - [Atcoder beginner Contest 330](https://atcoder.jp/contests/abc330)
+    - [Problem A](https://github.com/aarafiit/CP/blob/main/A_Cover_in_Water.cpp)
+    - [Problem B](contests/codeforces/contest1/problemB_solution.cpp)
+    - [Problem C](contests/codeforces/contest1/problemC_solution.cpp)
+
+  - [Contest 2](contests/codeforces/contest2)
+    - [Problem A](contests/codeforces/contest2/problemA_solution.cpp)
+    - [Problem B](contests/codeforces/contest2/problemB_solution.cpp)
+    - [Problem C](contests/codeforces/contest2/problemC_solution.cpp)
+
+  - [Contest 3](contests/codeforces/contest3)
+    - [Problem A](contests/codeforces/contest3/problemA_solution.cpp)
+    - [Problem B](contests/codeforces/contest3/problemB_solution.cpp)
+    - [Problem C](contests/codeforces/contest3/problemC_solution.cpp)
+</details>
 - [LeetCode](contests/leetcode)
 - [Hackerrank](contests/hackerrank)
 
