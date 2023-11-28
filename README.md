@@ -27,7 +27,7 @@ This section contains solutions and write-ups for various online programming con
 <details>
   <summary>Codeforces</summary>
 
-  - [Codeforces Round 911 (Div. 2)]([contests/codeforces/contest1](https://codeforces.com/contest/1900))
+  - [Codeforces Round 911 (Div. 2)]((https://codeforces.com/contest/1900))
     - [Problem A]([contests/codeforces/contest1/problemA_solution.cpp](https://github.com/aarafiit/CP/blob/main/A_Cover_in_Water.cpp))
     - [Problem B](contests/codeforces/contest1/problemB_solution.cpp)
     - [Problem C](contests/codeforces/contest1/problemC_solution.cpp)
